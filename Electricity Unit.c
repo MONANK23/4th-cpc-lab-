@@ -18,5 +18,5 @@ void main(){
 	else {
 		cost = 50*0.5+100*0.75+100*1.20+(unit-250)*1.50;
 	}
-	printf("Total cost : %.2f\n",cost);
+	printf("Total cost : %.2f₹\n",cost);
 }
